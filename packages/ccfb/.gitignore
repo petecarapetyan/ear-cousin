@@ -2,6 +2,8 @@
 docs/_merged_data/
 docs/_merged_assets/
 docs/_merged_includes/
+docs/*.js
+docs/*.js.map
 _site/
 _site-dev
 
