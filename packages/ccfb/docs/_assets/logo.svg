@@ -1,0 +1,9 @@
+<svg _SVGFile__filename="oldscale/actions/areas.svg" version="1.0" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <path d="m51.125 54.312v-35.25l-11.656 4.157-9.469-12.125-24.406 10.125" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.125"/>
+ <path d="m5.6275 5.6263v48.748h48.744" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+ <g transform="matrix(1.0119 0 0 1.0061 -.96258 -.43353)" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+  <path transform="translate(0 -1.0797)" d="m6.4781 22.614 24.113-10.077 9.357 12.056 11.517-4.139v19.794l-45.167-0.719 0.1801-16.915z" fill="#7fbb55" fill-rule="evenodd" stroke-dasharray="3.0971280 3.0971280" stroke-width="3.0971"/>
+  <path d="m6.4781 36.787 24.113-10.077 9.357 12.056 11.517-4.138v19.794l-45.167-0.72 0.1801-16.915z" fill="#5e8fcb" fill-rule="evenodd" stroke-dasharray="3.0971280 3.0971280" stroke-width="3.0971"/>
+  <path transform="matrix(1.5474 0 0 1.5474 -89.955 -13.05)" d="m62.341 12.326v31.31h31.13" fill="none" stroke-width="3.2024"/>
+ </g>
+</svg>

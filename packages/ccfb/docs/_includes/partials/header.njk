@@ -1,0 +1,11 @@
+<div class="mobile-name">
+  <a href="{{ '/' | url }}">
+    <img src="/_merged_assets/_static/images/datafundamentals250simplici.gif" />
+    <span class="sr-only">{{ site.name }}</span>
+  </a>
+</div>
+<div class="primary-header">
+  {% for blockName, blockPath in _joiningBlocks.header %}
+    {% include blockPath %}
+  {% endfor %}
+</div>

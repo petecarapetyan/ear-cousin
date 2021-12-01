@@ -1,0 +1,34 @@
+<div id="footer-menu">
+  <div class="content-area">
+    {% for category in footer %}
+      <nav>
+        <h3>{{category.name}}</h3>
+        <ul>
+          {% for entry in category.children %}
+            <li>
+              <a href="{{entry.href | url}}">{{entry.text}}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </nav>
+    {% endfor %}
+    <nav>
+      <h3>Follow</h3>
+      <ul>
+        <div class="socials">
+          {%- for entry in site.socialLinks %}
+            <a class="social-link" href="{{ entry.url }}" aria-label="{{ site.name }} on {{ entry.name }}" rel="noopener noreferrer" target="_blank">
+              <span class="sr-only">{{ entry.name }}</span>
+              {% if entry.image %}
+                <img src="{{ entry.image }}" alt="{{ entry.alt }}"/>
+              {% else %}
+                {{ '/_assets/brand-logos/NAME.svg' | replace("NAME", entry.name) | lower | asset | toAbsPath | inlineFilePath | safe }}
+              {% endif %}
+            </a>
+          {%- endfor %}
+        </div>
+      </ul>
+    </nav
+  </div>
+</div>
+<hr>

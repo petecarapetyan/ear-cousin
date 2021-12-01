@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Coders Campus",
+    "children": [
+      {
+        "text": "Launch your coding career",
+        "href": "https://www.coderscampus.com/#:~:text=Coders%20Campus-,Launch,-your%20coding%20career"
+      }
+    ]
+  },
+  {
+    "name": "Resources",
+    "children": [
+      {
+        "text": "Learning Center",
+        "href": "https://www.coderscampus.com/learning-center/"
+      },
+      {
+        "text": "Career Center",
+        "href": "https://www.coderscampus.com/career-center/"
+      },
+      {
+        "text": "Podcast",
+        "href": "https://www.coderscampus.com/java-podcast/"
+      }
+    ]
+  },
+  {
+    "name": "Company",
+    "children": [
+      {
+        "text": "About Us",
+        "href": "https://www.coderscampus.com/about/"
+      },
+      {
+        "text": "Hire our graduates",
+        "href": "https://www.coderscampus.com/hire/"
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.coderscampus.com/contact/"
+      }
+    ]
+  }
+]
