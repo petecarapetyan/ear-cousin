@@ -5,3 +5,4 @@ docs/index.js
 package-lock.json
 docs/*.js.map
 docs/*.js
+src/state/firebase/config.ts
