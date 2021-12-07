@@ -20,7 +20,6 @@ export interface Knowledge {
 
 const getPath = (store: Store) => {
   if (store.getState()?.auth?.user?.uid) {
-    const uid = ""+store.getState().auth.user?.uid;
     return `knowledges`;
   } else {
     return null;
