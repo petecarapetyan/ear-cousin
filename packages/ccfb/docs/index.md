@@ -2,6 +2,7 @@
 title: Welcome!
 layout: layout-home
 ---
+
 <hr>
 
 # CRUD examples
@@ -21,13 +22,21 @@ Lookups/Filters:
 - [cohort](/cohort) - listings, such as Sept 2021 - mostly for use as a lookup or filter table
 - [Course/Syllabus Item Lookups](/syllabuslu) - for lookup table columns to other tables show here
 
+    <div style="display:none;" ifBah>bah</div>
+    <div style="display:none;" id="p2" ifBee>bee</div>
+    <div style="display:none;" id="p2" ifBee>bee2</div>
+    <div style="display:none;" ifBuu>buu</div>
 
 ## Other content
 
 This site is built from markup, so any content can be added by merely creating Markdown pages
 
-## Alpha site
+<div style="display:none;" ifBoo>
+    
+## Alpha sites
 
 This site is not ready for prime time. Specific pages could be made ready for specific groups, but it is not intended for public usage.
 
 Role based access to all but a few public pages are ready for initial setup, once roles and admin has been established for use cases as discovered through initial usage.
+    
+</div>
