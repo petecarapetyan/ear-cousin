@@ -1,3 +1,4 @@
 node_modules
 */package-lock.json
 packages/*/src/state/firebase/config.ts
+packages/ccfb/site
